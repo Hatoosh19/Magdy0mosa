@@ -1,0 +1,209 @@
+body
+{
+    margin: 0;
+}
+.page-1
+{
+    background-image: linear-gradient(rgb(246 242 234 / 0.7), rgb(246 242 234 / 0.7)), url(../images/dina-seafood-1.png);
+    height: 100vh;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-color: rgba(246, 242, 234,1);
+}
+.page-2
+{
+    
+}
+.page-3{
+    background-color: #f6f2ea;
+}
+.page-4
+{
+    background-color: #f6f2ea;
+}
+.container
+{
+    width: 90%;
+    margin: auto;
+}
+.left-side .headding-ls
+{
+    color: #274eba;
+    font-weight: 700;
+    font-size: 112px;
+}
+.left-side
+{
+    float: left;
+    vertical-align: bottom;
+    margin-top: 30px;
+}
+.btn
+{
+    background-color: transparent;
+    padding: 10px 20px;
+    color: #ea2a3d;
+    border: solid 2px red;
+    font-size: 20px;
+    transition: all 0.4s ease-in-out ;
+}
+.btn:hover
+{
+    background-color: red;
+    color: white;
+}
+.right-side
+{
+    float: right;
+
+}
+.clear-fix
+{
+    clear: both;
+}
+.right-side .front-text
+{
+    color: rgb(31, 53, 113);
+    font-size: 24px;
+    font-style: italic;
+    margin-top: 76px;
+    font-weight: 400;
+    line-height:41px;
+    font-family: Raleway, sans-serif;
+}
+.title-text
+{
+    color: #274eba;
+    font-size: 14px;
+    border-bottom: solid 1px #274eba ;
+    display: inline-block;
+    margin-top: 30px;
+    font-weight: 500;
+    padding-bottom: 2px;
+    font-size: 18px;
+    font-family: Raleway, sans-serif;
+}
+.right-side p
+{
+   color:#000;
+   font-size: 16px;
+   line-height: 27px;
+   font-family: Releway, sans-serif;
+}
+.gallary .item
+{
+    width: 25%;
+    float: left;
+}
+.gallary .item img
+{
+    width: 100%;
+    display: block;
+}
+.ls
+{
+    float: left;
+    width: 50%;
+}
+.ls p
+{
+    color: rgb(31, 53, 113);
+    line-height: 30px;
+    font-family: Raleway, sans-serif;
+    
+}
+.rs
+{
+    float: right;
+    width: 50%;
+}
+
+.rs h2
+{
+    margin: 0;
+    color: rgb(39, 78, 186);
+    font-size: 64px;
+    font-weight: 700;
+    margin-bottom: 53px;
+}
+.container2
+{
+    width: 90%;
+    margin: auto;
+    padding-top: 40px;
+    background-color: #f6f2ea;
+}
+.rs p
+{
+    color: #1f3571;
+    line-height: 27px;
+    font-family: Raleway, sans-serif;
+    font-size: 16px;
+}
+.img-place
+{
+    width: 90%;
+    margin: auto;
+    margin-top: 60px;
+    background-color: f6f2ea;
+}
+.img-item
+{
+    width: 24%;
+    float: left;
+    padding-left: 3px;
+    text-align: center;
+}
+.img-item img
+{
+    width: 50%;
+}
+
+.menu
+{
+    background:#f6f2ea;
+    text-align: center;
+    color:#274eba; 
+    padding: 50px 0 ;
+
+}
+.menu h2
+{
+    margin: 0;
+    font-size: 64px;
+    font-family:"Playfair Display", serif;
+    margin-bottom: 53px;
+}
+.menu-item
+{
+    
+    width: 33.33%;
+    float: left;
+}
+.clear-fix
+{
+    clear:both;
+}
+.menu .container
+{
+    width: 90%;
+    margin: auto ;
+}
+.menu span
+{
+    color: #ea2a3d;
+    font-size: 16px;
+}
+.menu .container p
+{
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #1f3571;
+}
+
+
+
+

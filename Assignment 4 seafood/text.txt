@@ -1,0 +1,32 @@
+<div class="page-3">
+        <div class="container2">
+            <div class="ls">
+               <div class="title-text">1965:</div>
+               <p>
+                Arnare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consect.
+                <br>
+                Consecte adi pisci elit. Vivamus auctor condimentum sem ravia.
+               </p>
+               <div class="title-text">1980:</div>
+               <p>
+                Maecenas id enim pharetra, sollicitudin dui eget, blandit lorem. Nunc vitae blandit lectus.
+                <br>
+                Donec lacinia magna sit amet arcu aliquet luctus.
+               </p>
+               <div class="title-text">2003:</div>
+               <p>
+                Donec sit amet posuere ipsum. Mauris rutrum sagittis sapien.
+                <br>
+                In vitae ipsum eleifend, auctor turpis in, vestibulum dui.
+
+
+               </p>
+            </div>
+            <div class="rs">
+            <div class="title-text">HISTORY</div>
+            <h2>Our Family <br>Tradition</h2>
+            <p>
+                Vestibulum eleifend gravida neque a bibendum. Vivamus viverra velit non cursus elementum. Donec sit amet posuere ipsum. Mauris rutrum sagittis sapien. In vitae ipsum eleifend, auctor turpis in, vestibulum dui. Ut vestibulum, lorem id eleifend mollis, urna augue imperdiet ante, vitae aliquam turpis mauris eget nisi.
+            </p>
+        </div>
+    </div>
